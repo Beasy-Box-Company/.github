@@ -14,8 +14,8 @@ bringing together entrepreneurs and consultants
 
 <h2 align="center" > 🏃🏻‍♂️🏃🏻‍♂️ Our team: </h2>
 
-<h4 align="center">[Thales Veiga](https://github.com/Thales-cv)</h4>
-<h4 align="center">[Bernardo Kirsch](https://github.com/kirschzao)</h4>
+<h4 align="center"> <a href = "https://github.com/Thales-cv" target="_blank"> Thales Veiga </a></h4>
+<h4 align="center"> <a href = "https://github.com/kirschzao" target="_blank"> Bernardo Kirsch </a></h4>
 
 
 <br>
