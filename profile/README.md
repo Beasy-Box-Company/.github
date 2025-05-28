@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3e/f5/0b/3ef50b104d505f428afd08a03a9aa1d8.jpg" width="700" height="175" alt="gmail logo"  />
+  <img src="Logotipo_Beasybox_Branco.png" width="955" height="102" alt="gmail logo"  />
 </div>
 
 <br>
