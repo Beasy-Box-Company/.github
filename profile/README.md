@@ -14,9 +14,9 @@ bringing together entrepreneurs and consultants
 
 <h2 align="center" > 🏃🏻‍♂️🏃🏻‍♂️ Our team: </h2>
 
-<h4 align="center">Thales Veiga</h4>
-<h4 align="center">Thales Veiga</h4>
-<h4 align="center">Thales Veiga</h4>
+<h4 align="center">[Thales Veiga](https://github.com/Thales-cv)</h4>
+<h4 align="center">[Bernardo Kirsch](https://github.com/kirschzao)</h4>
+
 
 <br>
 
@@ -32,7 +32,7 @@ bringing together entrepreneurs and consultants
   <a href="https://www.instagram.com/beasybox/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="contato@beasybox.com" target="_blank">
+  <a href="beasybox.co](https://www.beasybox.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
