@@ -1,23 +1,20 @@
 
 <div align="center">
-  <img src="Logotipo_Beasybox_Branco.png" width="955" height="102" alt="gmail logo"  />
+  <img src="Logotipo_Beasybox_Branco.png" width="716" height="77" alt="gmail logo"  />
 </div>
 
 <br>
 
 <h1 align="center"> Welcome to BeasyBox Company 💼 </h1>
 
-<br>
 
 <h2  align="center"> 🧑🏻‍💻🧑🏻‍💻 Who we are? </h2> 
-<br>
 <p  align="center"> We are a technology startup aiming to help the consulting market <br>
 through fast, AI-automated reports. <br>
 In addition to creating a valuable tool, we partner in the transformation journey, <br>
 bringing together entrepreneurs and consultants
 </p>
 
-<br>
 
 <h2 align="center" > 🏃🏻‍♂️🏃🏻‍♂️ Our team: </h2>
 
@@ -25,11 +22,8 @@ bringing together entrepreneurs and consultants
 <h4 align="center"> <a href = "https://github.com/kirschzao" target="_blank"> Bernardo Kirsch </a></h4>
 
 
-<br>
-
 <h2 align="center" > 📍 Where we are? </h2>
 <p  align="center"> 🗺️ We are located at TechnoPUC in Porto Alegre, Brazil. </p>
-<br>
 
 <h2 align="center" > 🌐 Social Midias: </h2>
 <div align="center">
