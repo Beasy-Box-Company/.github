@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3e/f5/0b/3ef50b104d505f428afd08a03a9aa1d8.jpg" width="700" height="175" alt="gmail logo"  />
+</div>
+
+<br>
+
 <h1 align="center"> Welcome to BeasyBox Company 💼 </h1>
 
 <br>
@@ -32,7 +39,7 @@ bringing together entrepreneurs and consultants
   <a href="https://www.instagram.com/beasybox/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="beasybox.co](https://www.beasybox.com/" target="_blank">
+  <a href="https://www.beasybox.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
